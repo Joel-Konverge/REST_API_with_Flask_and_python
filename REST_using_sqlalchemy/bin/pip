@@ -1,4 +1,4 @@
-#!/Users/Joel/Documents/REST_API_with_Flask_and_python/RESTful_using_Sqlalchemy/bin/python
+#!/Users/Joel/Documents/REST_API_with_Flask_and_python/REST_using_sqlalchemy/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

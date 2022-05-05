@@ -57,7 +57,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV '/Users/Joel/Documents/REST_API_with_Flask_and_python/RESTful_using_Sqlalchemy'
+set -gx VIRTUAL_ENV '/Users/Joel/Documents/REST_API_with_Flask_and_python/REST_using_sqlalchemy'
 
 # https://github.com/fish-shell/fish-shell/issues/436 altered PATH handling
 if test (echo $FISH_VERSION | head -c 1) -lt 3

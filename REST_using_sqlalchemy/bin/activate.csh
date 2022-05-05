@@ -10,7 +10,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV '/Users/Joel/Documents/REST_API_with_Flask_and_python/RESTful_using_Sqlalchemy'
+setenv VIRTUAL_ENV '/Users/Joel/Documents/REST_API_with_Flask_and_python/REST_using_sqlalchemy'
 
 set _OLD_VIRTUAL_PATH="$PATH:q"
 setenv PATH "$VIRTUAL_ENV:q/bin:$PATH:q"
